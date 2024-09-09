@@ -236,12 +236,25 @@ int main() {
 ```
 ## Output - 
 A. ![image_2024-09-09_135546064](https://github.com/user-attachments/assets/9128d7fd-3995-4732-8dd5-6dac8ae2d6e3)
+
+
 B. ![image_2024-09-09_135645780](https://github.com/user-attachments/assets/81834779-c149-4499-8bb6-65ccee094214)
+
+
 C. ![image_2024-09-09_135802016](https://github.com/user-attachments/assets/d89a4f01-af67-4826-aa5c-6315f9ecfc3b)
+
+
 D. ![image_2024-09-09_135823511](https://github.com/user-attachments/assets/ac5c068a-9e15-4db0-9253-f5bd55e00d84)
+
+
 E. ![image_2024-09-09_135846514](https://github.com/user-attachments/assets/b3f390ad-0e11-40e5-ac07-c9e5a7b1de9f)
+
+
 F. ![image_2024-09-09_135910155](https://github.com/user-attachments/assets/9bea90b6-969c-4d49-86b8-ee0c27edece4)
+
+
 
 ## Conclusion - 
 ~ We learnt about constructors and deconstructors in C++.
+
 ~ We learnt the use case of each of them in C++.
